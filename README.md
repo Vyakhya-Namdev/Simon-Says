@@ -23,7 +23,7 @@ A web-based memory game inspired by the classic Simon Says! Test your memory ski
 - HTML
 - CSS
 - JavaScript
-- 
+
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
