@@ -24,8 +24,5 @@ A web-based memory game inspired by the classic Simon Says! Test your memory ski
 - CSS
 - JavaScript
 
-## 🛠️ Setup Instructions
+##  Interface
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vyakhya-Namdev/Simon-Says.git
